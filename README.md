@@ -13,7 +13,7 @@ And much more!
   
 ## Example
 
-![Application](https://iili.io/4SbxZG.gif)
+![Example](https://iili.io/4SbxZG.gif)
 
   
 ## Contact
