@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output dizini sonda bir eğik çizgiyle bitmiyor. Output dizininin düzgün değerlendirilmesi için bu eğik çizgi gerekli olduğundan bu oluşturma örneği eğik çizgiyi ekleyecek.
+  AppWindow.cpp
+C:\Users\Kayra\source\repos\DatastormEngine\DatastormEngine\Matrix4x4.h(101,44): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Kayra\source\repos\DatastormEngine\DatastormEngine\Matrix4x4.h(102,44): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Kayra\source\repos\DatastormEngine\DatastormEngine\Matrix4x4.h(103,44): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Kayra\source\repos\DatastormEngine\DatastormEngine\Matrix4x4.h(104,44): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Kayra\source\repos\DatastormEngine\DatastormEngine\AppWindow.cpp(53,32): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Kayra\source\repos\DatastormEngine\DatastormEngine\AppWindow.cpp(56,33): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Kayra\source\repos\DatastormEngine\DatastormEngine\AppWindow.cpp(59,32): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  DatastormEngine.vcxproj -> C:\Users\Kayra\source\repos\DatastormEngine\DatastormEngine\e\DatastormEngine.exe
