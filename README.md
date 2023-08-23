@@ -18,4 +18,4 @@ And much more!
   
 ## Contact
 
-You can contact me from discord: TrazerX#7874
+You can contact me from discord: vertexbuffer
