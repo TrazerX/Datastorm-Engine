@@ -19,3 +19,5 @@ And much more!
 ## Contact
 
 You can contact me from discord: vertexbuffer
+
+## WARNING!! THE TEXTURE SYSTEM IS CURRENTLY BROKEN IT WILL BE FIXED
